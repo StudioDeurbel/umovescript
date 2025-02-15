@@ -8,6 +8,6 @@ else:
     print("I assume thats a yes. So, ill make your life better.")
 
 #Written by: Nik Andries
-#Written in: PyCharm
+#Written in: PyCharm IDE by JetBrains
 #Inspired by: CG5's Project UMove and UMove
 #@StudioDeurbel 2025
